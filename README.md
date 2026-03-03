@@ -2,7 +2,7 @@
 
 I'm a third-year **Computer Science & Interaction Design** student at [Northeastern University](https://www.northeastern.edu/), currently working as a Software Engineer at [**NExT Consulting**](https://nunext.dev/). I love building things that sit at the intersection of great engineering and great design, whether that's a polished web app or a human-centered UI.
 
-Previously, I've done full-stack dev at [**Scout**](https://scout.camd.northeastern.edu/) (A Northeastern design agency) and graphic design at [**The TJX Companies**](https://www.tjx.com/). I can speak in both design and software engineering fluently!
+Previously, I've done full-stack dev at [**Scout**](https://scout.camd.northeastern.edu/) (A Northeastern design agency) and graphic design at [**The TJX Companies**](https://www.tjx.com/). I love that I can speak in both design and software engineering languages fluently!
 
 📍 Boston, MA &nbsp;|&nbsp; 🌐 [amyengportfolio.com](https://amyengportfolio.com)
 

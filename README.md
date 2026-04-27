@@ -1,6 +1,6 @@
 # Hi, I'm Amy! 👋
 
-I'm a third-year **Computer Science & Interaction Design** student at [Northeastern University](https://www.northeastern.edu/), currently working as a Software Engineer at [**NExT Consulting**](https://nunext.dev/). I love building things that sit at the intersection of great engineering and great design, whether that's a polished web app or a human-centered UI.
+I'm a fourth-year **Computer Science & Interaction Design** student at [Northeastern University](https://www.northeastern.edu/), previously a Software Engineer Co-op at [**NExT Consulting**](https://nunext.dev/) where I built a custom manufacturing planning and traceability platform for [**Via Separations**](https://www.viaseparations.com/). I love building things that sit at the intersection of great engineering and great design, whether that's a polished web app or a human-centered UI.
 
 Previously, I've done full-stack dev at [**Scout**](https://scout.camd.northeastern.edu/) (A Northeastern design agency) and graphic design at [**The TJX Companies**](https://www.tjx.com/). I love that I can speak in both design and software engineering languages fluently!
 
@@ -47,9 +47,7 @@ Previously, I've done full-stack dev at [**Scout**](https://scout.camd.northeast
 ---
 
 ## 🌱 Currently
-
 - 📚 Finishing my third year at Northeastern
-- 💼 Building software at NExT Consulting
 - 🎮 Probably also playing video games
 
 ---

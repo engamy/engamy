@@ -46,11 +46,6 @@ Previously, I've done full-stack dev at [**Scout**](https://scout.camd.northeast
 
 ---
 
-## 🌱 Currently
-- 📚 Finishing my third year at Northeastern
-- 🎮 Probably also playing video games
-
----
 
 ## ✨ Outside of Code
 
